@@ -1,0 +1,11 @@
+Algo trading: using algorithms to make investment decisions
+ - main differenece between strategies is the speed of execution
+Renaissance Technologies (medallian fund, 50% returns)
+process:
+1. collect data
+2. hypothesis for strategies
+3. backtest strat: take the strat back in time and across many markets to see how it would've performed
+4. implement in production
+
+# execute trades with custodians that have their own api interface
+# this code generates order sheets/recommended trades
